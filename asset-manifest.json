@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myteam-website/static/css/main.d2d3e67f.css",
-    "main.js": "/myteam-website/static/js/main.875c038b.js",
+    "main.css": "/myteam-website/static/css/main.9418ce2d.css",
+    "main.js": "/myteam-website/static/js/main.6bcc43d9.js",
     "static/js/787.633816a4.chunk.js": "/myteam-website/static/js/787.633816a4.chunk.js",
     "static/media/drake.svg": "/myteam-website/static/media/drake.b06b21adc4f0f65d5bcfc64e2686dfcb.svg",
     "static/media/NIkita.svg": "/myteam-website/static/media/NIkita.9e9583479b4f209a250b437562536f51.svg",
@@ -29,12 +29,12 @@
     "static/media/closeNavbar.svg": "/myteam-website/static/media/closeNavbar.9d61e3ed44514301c3c630afc1508768.svg",
     "static/media/openNavbar.svg": "/myteam-website/static/media/openNavbar.83bad75b903e92a3f5929bc5d0b2dde1.svg",
     "static/media/Combined Shape.svg": "/myteam-website/static/media/Combined Shape.fe006360650daadf1cc1ae5325937404.svg",
-    "main.d2d3e67f.css.map": "/myteam-website/static/css/main.d2d3e67f.css.map",
-    "main.875c038b.js.map": "/myteam-website/static/js/main.875c038b.js.map",
+    "main.9418ce2d.css.map": "/myteam-website/static/css/main.9418ce2d.css.map",
+    "main.6bcc43d9.js.map": "/myteam-website/static/js/main.6bcc43d9.js.map",
     "787.633816a4.chunk.js.map": "/myteam-website/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2d3e67f.css",
-    "static/js/main.875c038b.js"
+    "static/css/main.9418ce2d.css",
+    "static/js/main.6bcc43d9.js"
   ]
 }

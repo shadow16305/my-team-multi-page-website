@@ -9,6 +9,8 @@ import plus_icon from "../../assets/Combined Shape.svg";
 import linkedIn from "../../assets/004-linkedin-logo.svg";
 import twitter from "../../assets/twitter.svg";
 
+import "./Directors.css";
+
 const Directors = () => {
   const [openStates, setOpenStates] = useState({});
   const cardClickHandler = (id, event) => {
@@ -82,8 +84,8 @@ const Directors = () => {
                 key={elem.id}
               >
                 <div
-                  className={`h-${
-                    openStates[elem.id] ? "0" : "full"
+                  className={`${
+                    openStates[elem.id] ? "h0" : "h100"
                   } overflow-hidden flex flex-col items-center justify-center gap-1`}
                 >
                   <img src={elem.img} width={96} height={96} alt="" />
@@ -91,8 +93,8 @@ const Directors = () => {
                   <p className="body-2">{elem.title}</p>
                 </div>
                 <div
-                  className={`h-${
-                    openStates[elem.id] ? "full" : "0"
+                  className={`${
+                    openStates[elem.id] ? "h100" : "h0"
                   } flex flex-col items-center justify-center bg-stateGreen relative gap-7 overflow-hidden`}
                 >
                   <h4>{elem.name}</h4>

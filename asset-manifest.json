@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/myteam-website/static/css/main.d2d3e67f.css",
+    "main.js": "/myteam-website/static/js/main.875c038b.js",
+    "static/js/787.633816a4.chunk.js": "/myteam-website/static/js/787.633816a4.chunk.js",
+    "static/media/drake.svg": "/myteam-website/static/media/drake.b06b21adc4f0f65d5bcfc64e2686dfcb.svg",
+    "static/media/NIkita.svg": "/myteam-website/static/media/NIkita.9e9583479b4f209a250b437562536f51.svg",
+    "static/media/aden-allen.svg": "/myteam-website/static/media/aden-allen.2ce815963a1f4a633b58cdd5ddb4a7bf.svg",
+    "static/media/griffin.svg": "/myteam-website/static/media/griffin.6c87e8212d0dbcbd03ac39d963ab4a0d.svg",
+    "static/media/cruz.svg": "/myteam-website/static/media/cruz.025cf9a395526f405ed45c873feabb94.svg",
+    "static/media/Object.svg": "/myteam-website/static/media/Object.7ebae985fe2d405ddf0b711bc14d61cd.svg",
+    "static/media/Object-1.svg": "/myteam-website/static/media/Object-1.56739f74b5bc8d7bbf41b400066b8a42.svg",
+    "static/media/cristian.svg": "/myteam-website/static/media/cristian.ffe6e045f398b55531694e7c453f1579.svg",
+    "static/media/Object-2.svg": "/myteam-website/static/media/Object-2.2f20de124fe41250dcb3396e6f7b222a.svg",
+    "static/media/Object-3.svg": "/myteam-website/static/media/Object-3.f2fd53fbe8e7e69e91d9c354e243b79a.svg",
+    "static/media/Object-4.svg": "/myteam-website/static/media/Object-4.51e1ae91b1e97e75015e14f6ea1bb20c.svg",
+    "static/media/header-bg.png": "/myteam-website/static/media/header-bg.b727bf3e1af41acab88a.png",
+    "static/media/Oval.png": "/myteam-website/static/media/Oval.07114e145d42048d5047.png",
+    "static/media/directors-bg.png": "/myteam-website/static/media/directors-bg.5497194026efa7523594.png",
+    "static/media/Group 12.svg": "/myteam-website/static/media/Group 12.693b71c2ad141ac16decf76bd5f69420.svg",
+    "static/media/Group 11.svg": "/myteam-website/static/media/Group 11.d662b7a86974ec3a408b2378722e4439.svg",
+    "static/media/myteam 2.svg": "/myteam-website/static/media/myteam 2.e4957b37f723db3bd7e0443a1054000a.svg",
+    "static/media/Group 13.svg": "/myteam-website/static/media/Group 13.7e6b8096a261070a124234c16f0cd392.svg",
+    "static/media/pinterest.svg": "/myteam-website/static/media/pinterest.de4a1cc5628838a156aa618397fd0c5c.svg",
+    "static/media/twitter.svg": "/myteam-website/static/media/twitter.89dca20e5ba737cb582c816adbdce997.svg",
+    "index.html": "/myteam-website/index.html",
+    "static/media/004-linkedin-logo.svg": "/myteam-website/static/media/004-linkedin-logo.ca15758fe9d8643674ab134d6116c4b4.svg",
+    "static/media/facebook.svg": "/myteam-website/static/media/facebook.aa554c39774fdcc69a00f5c9386f81cb.svg",
+    "static/media/closeNavbar.svg": "/myteam-website/static/media/closeNavbar.9d61e3ed44514301c3c630afc1508768.svg",
+    "static/media/openNavbar.svg": "/myteam-website/static/media/openNavbar.83bad75b903e92a3f5929bc5d0b2dde1.svg",
+    "static/media/Combined Shape.svg": "/myteam-website/static/media/Combined Shape.fe006360650daadf1cc1ae5325937404.svg",
+    "main.d2d3e67f.css.map": "/myteam-website/static/css/main.d2d3e67f.css.map",
+    "main.875c038b.js.map": "/myteam-website/static/js/main.875c038b.js.map",
+    "787.633816a4.chunk.js.map": "/myteam-website/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2d3e67f.css",
+    "static/js/main.875c038b.js"
+  ]
+}
